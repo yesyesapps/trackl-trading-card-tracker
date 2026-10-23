@@ -1,113 +1,78 @@
-# Privacy Policy – Trackl
+Privacy Policy — Trackl
+Last updated: October 23, 2026
 
-**Last updated:** October 20, 2026  
-**Publisher:** YesYesApps, part of YesYesStudios  
-**Contact:** [mail@yesyesgames.de](mailto:mail@yesyesgames.de)
+1. Controller and contact
+The data controller is Christian Fritzsching, trading as YesYesApps / YesYesStudios.
 
-> **Publication status: DRAFT.** Replace the legal-controller details below and resolve all **[VERIFY BEFORE PUBLICATION]** notes against the exact released build before publishing this policy or linking it in an app store. This text describes current functionality, not planned account or cloud-sync features.
+Email: mail@yesyesgames.de
+Full postal contact details: Legal Notice / Impressum.
 
-## 1. Who is responsible for your data?
+This Privacy Policy explains the handling of personal data in Trackl, a trading card scanning and collection management app for phones and tablets.
 
-Trackl is published under **YesYesApps**, a brand of **YesYesStudios**.
+2. Collection records and preferences
+Trackl allows you to store information about trading cards, such as card identifiers, quantities, variants, conditions, languages and collection preferences. In the current released version, Trackl keeps its collection records locally on your device. Trackl does not currently provide an in-app Google/Apple login or app-managed, account-linked cloud synchronization.
 
-**Data controller:** [VERIFY BEFORE PUBLICATION: legal full name / registered business name]  
-**Postal address:** [VERIFY BEFORE PUBLICATION: business contact address]  
-**Email:** [mail@yesyesgames.de](mailto:mail@yesyesgames.de)
+Your operating system may include local app data in its own device backups, depending on the platform, settings and app configuration. Such backups are not an account-linked cloud-sync feature operated by Trackl.
 
-## 2. What Trackl does with your collection
+3. Camera and on-device recognition
+If you use the scanner, Trackl requests camera access to identify printed set and card codes. OCR processing occurs on your device; camera images are not uploaded for OCR recognition.
 
-Trackl lets you search for trading cards and maintain a collection, including card identifiers, quantities, variants, languages, card conditions and app preferences. **Trackl currently stores collection information locally on your device.** It does not currently offer a Trackl account, in-app Google/Apple sign-in, or an app-managed account-linked cloud synchronization service.
+Recognized card identifiers may subsequently be used in online card-information requests. Those requests are separate from camera-image processing.
 
-Your device's operating system may separately include app data in device backups according to its settings and the application's backup configuration. Such platform backups are different from a cloud-sync service operated by Trackl.
+4. Online card information and prices
+To display card data, search results, variants and price estimates, Trackl can contact external card catalog or price-data services. Such a service may receive the card or set identifiers/search terms needed for a query and network metadata such as the requesting IP address. Market-price figures are indicative and may be incomplete or outdated.
 
-**[VERIFY BEFORE PUBLICATION: Audit the database/storage layer and Android Auto Backup / iOS backup settings; confirm whether any collection records are sent to a server or backed up automatically.]**
+The precise provider(s), endpoint routing and any additional transmitted fields depend on the released app configuration and are subject to verification before this policy is published.
 
-## 3. Camera permission and card-code recognition
+5. Firebase Analytics
+Trackl currently uses Google Analytics for Firebase, provided by Google, to understand app usage and improve usability. Depending on the SDK and configuration, the service can process app events, sessions, app-instance identifiers, app version, device and operating-system details, and technical location/identifier information. Such information may be personal data even when pseudonymous.
 
-Trackl requests camera access when you use its scanner. The scanner analyzes printed set/card codes using optical character recognition (OCR) **on the device**. **Camera frames are not uploaded for OCR processing.**
+For information about Google's handling of these data, see Firebase Privacy and Security and Google Privacy Policy.
 
-A recognized identifier may be used in an online card-catalog request to find matching information. This request is separate from image/OCR processing. The receiving provider may see the requested identifier and technical connection information such as an IP address.
+Where required by applicable privacy and device-access law, Analytics processing requires a valid consent mechanism before collection. The exact Analytics consent, event, identifier and retention configuration of the released app must be verified before publication.
 
-**[VERIFY BEFORE PUBLICATION: Confirm actual outgoing requests and providers, that no camera frame is attached to requests or diagnostics, and whether identifiers are forwarded through a developer-operated proxy.]**
+6. App-store purchases (where offered)
+If you purchase digital functionality in Trackl, billing and payment are processed by the relevant app store (such as Google Play or Apple's App Store), rather than by Trackl directly. The store processes payment and transaction information under its own terms and privacy practices. Depending on the purchasing implementation, Trackl may receive purchase status, product identifiers, transaction or purchase tokens and entitlement-related information to deliver or restore purchases and help prevent misuse. We do not require users to enter credit card information directly into Trackl for these store purchases.
 
-## 4. Online card catalogs and prices
+The exact purchase SDK, identifiers, verification recipient, retention and transfer path must be confirmed against the released app before publication.
 
-Trackl may request card metadata, search results, card variants, and market-price information from external providers when those features are used. The providers receiving a request may process search terms or card/set identifiers together with network connection information.
+7. Crash reports
+Firebase Crashlytics is not part of the currently released version of Trackl. It is planned for a future update. If enabled later, we will update this Privacy Policy and the relevant app-store privacy disclosures before release, describing the diagnostic data, purposes, retention and controls actually implemented.
 
-**[VERIFY BEFORE PUBLICATION: List the real production providers (such as TCGdex or TCGplayer only if actually integrated), direct-vs-proxy requests, their privacy information, and any information beyond card identifiers/search queries that is transmitted.]**
+8. Feedback, support and card corrections
+If you contact us by email or through GitHub Issues/Discussions, we process the information you provide (for example contact details and message content) to handle your request. GitHub separately processes information under its own terms and privacy practices.
 
-## 5. Firebase Analytics
+If an app version allows voluntary card-data corrections or feedback submissions, the data submitted for that purpose may be processed to investigate and improve the catalog. The exact fields, recipients and retention for any such currently enabled upload must be verified before publication.
 
-Trackl currently uses **Google Analytics for Firebase** to understand app usage and improve the app. Depending on its configuration and platform, Google Analytics for Firebase can process app events, sessions, app version, device and operating-system information, approximate location inferred from technical data, and pseudonymous app-instance identifiers. Depending on SDK and platform configuration, advertising identifiers may also be involved. These identifiers are not necessarily anonymous.
+9. Accounts and app-managed cloud saves
+Trackl currently does not provide in-app account registration, Google/Apple sign-in or app-managed cloud saves. These are potential future features, not current processing activities. The existence of a Google or Apple account on your device does not itself mean you have a Trackl app account.
 
-Google provides this service. See [Firebase privacy and security](https://firebase.google.com/support/privacy) and [Google's Privacy Policy](https://policies.google.com/privacy).
+10. Purposes and legal bases (EEA/UK where applicable)
+Processing is limited to appropriate purposes and legal bases under applicable data-protection law:
 
-**[VERIFY BEFORE PUBLICATION: Confirm the released SDK dependencies, analytics events/user properties, identifier collection, consent/opt-out flow, storage access and GDPR/ePrivacy legal basis, retention settings, Google Signals/ad personalization and any Google-product integrations.]**
+Providing local collection management, scanner functions and requested catalog lookups: performance of a contract or steps requested by you (Article 6(1)(b) GDPR) where personal data processing is involved.
+Usage analytics: consent where required (Article 6(1)(a) GDPR and applicable device-access rules). The actual implementation must match this disclosure.
+Replying to support requests, handling voluntary feedback and maintaining services: legitimate interests (Article 6(1)(f) GDPR) or contractual necessity, depending on the request and processing.
+Compliance with legal obligations: Article 6(1)(c) GDPR, where applicable.
+11. Recipients, international transfers and security
+Depending on the feature used, recipients of technical or user-submitted data may include Google (Firebase Analytics), external catalog/price-data services and communication platforms such as GitHub. Service providers may process data outside the European Economic Area; where required, appropriate transfer safeguards must be in place.
 
-## 6. Planned: Firebase Crashlytics (not currently active)
+We aim to protect data with appropriate technical and organizational measures. Details of production provider agreements, endpoint security and international transfer mechanisms should be confirmed before publication.
 
-**Firebase Crashlytics is not integrated into the currently released version of Trackl.** We plan to add it in a future update to help diagnose crashes and improve app stability.
+12. Retention and deletion
+Local collection data: You can remove local app storage through your device settings or by deleting the app. Device backups may persist separately under the operating-system provider's rules.
+Firebase Analytics: Analytics data is retained according to the applicable Google Analytics configuration; uninstalling the app does not necessarily delete previously collected analytics data.
+Support and feedback: Contact messages are retained only as long as necessary for handling requests and for applicable legal obligations.
+Submitted corrections: Where such submissions are implemented, their retention depends on the functionality and needs to be verified before publication.
+For practical instructions and privacy requests, see Data Deletion and Privacy Requests or contact mail@yesyesgames.de.
 
-**Only after Crashlytics has been integrated and enabled**, it may process crash stack traces, app and device state at the time of a crash, app version, operating-system and device information, installation identifiers, and, depending on our configuration, developer-defined diagnostic logs or Analytics event breadcrumbs. This information would be processed by Google as our service provider. For details, see [Firebase privacy and security](https://firebase.google.com/support/privacy).
+13. Your rights
+Under applicable law, you may have rights to access, correct, delete, restrict or object to the processing of your personal data, to data portability where applicable, and to withdraw consent at any time without affecting prior lawful processing. You may also complain to a competent data-protection supervisory authority.
 
-Before enabling Crashlytics in a released build, we will review its exact data collection and settings, the applicable legal basis and user controls, retention, and international transfers. We will also update this Privacy Policy and any required Google Play Data safety / Apple App Privacy disclosures **before the release containing Crashlytics**.
+For requests, email mail@yesyesgames.de. We may need proportionate verification to identify the data relevant to your request.
 
-**No crash reports are currently transmitted by Trackl through Firebase Crashlytics.**
+14. Intended audience
+Trackl is intended for trading card collectors generally and is not directed at children under 13. App-store target-audience settings and the treatment of younger users must reflect the actual distribution and applicable local rules.
 
-## 7. Feedback, support and card-information corrections
-
-If you contact us by email or through GitHub, we may process the contact details and message contents you choose to provide so that we can respond and investigate an issue. GitHub handles information submitted through its own platform under its own terms and privacy policy.
-
-Trackl may add features allowing users to submit card-effect corrections or other catalog improvements for review. **This policy does not claim that such an in-app submission feature is available now.**
-
-**[VERIFY BEFORE PUBLICATION: If the released app already uploads card-effect corrections, add the exact submitted fields, endpoint/recipient, IP/server logging, purpose, legal basis, retention and deletion procedure here before publishing.]**
-
-## 8. Accounts and cloud synchronization
-
-**Trackl currently does not provide an in-app account creation or sign-in feature.** A future release may support optional Google or Apple platform sign-in and user-controlled cloud backups or synchronization. These proposed features are **not included in the current data practices described above**. We will update this policy and applicable store privacy disclosures **before** introducing them.
-
-Signing into your phone's Google or Apple services, or downloading Trackl from an app store, does not by itself create a Trackl account.
-
-## 9. Purposes and legal grounds
-
-When EU/EEA privacy law applies, we process data for the following purposes, subject to the legally applicable requirements:
-
-- **Local collection and scanner functionality:** provide functions requested by the user; to the extent personal data is processed, contractual necessity under Article 6(1)(b) GDPR may apply.
-- **Online catalog lookups:** provide card search and pricing functions; where personal data such as network identifiers is processed, contractual necessity or an appropriately assessed legitimate interest may apply, depending on the implementation.
-- **Analytics:** understand use of Trackl and improve its operation; consent is required where applicable under GDPR and relevant device-access/ePrivacy rules.
-- **Support requests:** respond to voluntary inquiries, based on the applicable contractual necessity or legitimate interest.
-- **Legal obligations:** comply with applicable law under Article 6(1)(c) GDPR where necessary.
-
-**[VERIFY BEFORE PUBLICATION: Precisely map each processing activity to its valid legal basis and implement any consent, withdrawal or settings controls required for Firebase Analytics before release.]**
-
-## 10. Recipients, transfers and security
-
-Where the features above are used, recipients may include Google (Firebase Analytics), card-data/API providers, and support platforms selected by the user (for example GitHub). The user's device and optional platform backup services may store local app data under the user's device/cloud settings. Some providers may process information outside the European Economic Area, including in the United States. Appropriate legal safeguards are required where applicable.
-
-**[VERIFY BEFORE PUBLICATION: Identify providers, countries, applicable transfer safeguards, HTTPS/security controls, and any additional integrated SDKs or network endpoints.]**
-
-## 11. Retention and deleting data
-
-- **Collection and app preferences:** Local collection data can be removed using your device's app storage controls or by uninstalling the app, subject to the operating system's behavior. On Android, clearing Trackl's storage removes local app data; on Apple devices, deleting the app generally removes its local app container. System backups or cloud copies can remain under the provider's backup settings and retention rules.
-- **Analytics:** Firebase Analytics retains collected data according to its service settings and retention controls. Its collected data is not necessarily deleted simply by uninstalling Trackl. You can contact us regarding privacy rights and applicable deletion requests.
-- **Support messages:** We keep contact messages only for as long as reasonably needed for support, security, dispute resolution, or applicable legal obligations.
-
-**[VERIFY BEFORE PUBLICATION: Exact analytics retention settings, any available in-app local reset option, device backup inclusion, support retention period, and how applicable Analytics deletion requests can be handled.]**
-
-For instructions and requests, see [Data Deletion](DATA_DELETION.md) or email [mail@yesyesgames.de](mailto:mail@yesyesgames.de).
-
-## 12. Your privacy rights
-
-Depending on applicable law, you may have rights to access, correct, erase or restrict processing of personal data, object to processing, receive portable data where applicable, and withdraw consent without affecting prior lawful processing. You may also lodge a complaint with a competent data protection supervisory authority.
-
-Send requests to **mail@yesyesgames.de**. We may ask for proportionate verification before disclosing or deleting personal information.
-
-## 13. Changes to this policy
-
-We will update this policy when our processing activities or app features change. The last-updated date above reflects the current version. Material changes will be communicated where required.
-
-## 14. Contact
-
-**YesYesApps / YesYesStudios**  
-**[VERIFY BEFORE PUBLICATION: legal controller name and postal address]**  
-**mail@yesyesgames.de**
+15. Changes
+We may revise this policy when app features or data practices change. The updated date above will reflect revisions; material changes will be communicated where required by law.
