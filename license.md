@@ -1,45 +1,36 @@
-# Trackl — License and Intellectual Property Notice
+Trackl — License and Intellectual Property Notice
+Copyright © 2026 Christian Fritzsching. All rights reserved.
 
-Copyright © 2026 **[REPLACE: legal copyright holder]**. All rights reserved.
+Trackl is proprietary software published under YesYesApps, part of YesYesStudios.
 
-**Trackl** is a proprietary trading-card collection application published under **YesYesApps**, a brand of **YesYesStudios**.
+1. Scope
+This repository is a public resource for Trackl product information, documentation, bug reports (GitHub Issues), feature requests and discussion (GitHub Discussions), and its public roadmap. The application source code is not published here.
 
-## 1. Scope of this repository
+Public visibility of this repository does not make Trackl open-source software or grant a software license. Access to Trackl through an app store is governed by the applicable store terms and Trackl Terms of Use, to the extent legally permitted.
 
-This GitHub repository is a public home for Trackl's product information, documentation, issue reports, feature discussions, and roadmap. The application's source code is **not** published here.
+2. Rights reserved
+All rights in the original Trackl software, brand assets, designs, documentation and other proprietary materials are reserved unless otherwise expressly stated. No permission is granted to reproduce, distribute, sublicense or commercially exploit those materials without authorization, except as permitted by law or another applicable license.
 
-Public availability of this repository does **not** make Trackl open-source software and does not grant a license to the application, its binaries, non-public source code, or proprietary assets.
+This notice does not restrict mandatory statutory rights, including applicable rights concerning interoperability, or rights granted by separate agreements.
 
-## 2. Rights reserved
+3. Third-party content
+Names, trademarks, images, catalog data, pricing information and other content belonging to third parties remain subject to their respective rights and terms. This notice does not grant permission to reuse third-party material.
 
-Except where expressly stated otherwise or permitted by applicable law, the copyright holder reserves all rights in the original material published by the project, including original texts, graphics, branding, and other original project assets.
+Identification of compatible trading card products does not imply sponsorship, endorsement or affiliation with their publishers or rights holders.
 
-No license is granted to copy, modify, redistribute, sublicense, or commercially exploit proprietary Trackl software or assets without prior authorization. Rights granted by mandatory law, applicable app-store terms, or separate written agreements remain unaffected.
+Third-party software dependencies are subject to their respective licenses and notices.
 
-## 3. Third-party materials
+4. Community contributions
+Bug reports belong in Issues; feature suggestions and discussion belong in Discussions.
 
-Trading-card names, set names, trademarks, card images, catalog information, market data, and other third-party materials displayed or referenced by Trackl may belong to their respective rights holders. This notice does not claim ownership of those materials or grant permission to reuse them.
+Contributors retain rights in their original submissions. By submitting feedback, you permit the maintainers to review it and use the ideas in developing Trackl, to the extent legally permitted; this does not transfer ownership of copyrighted material. Do not submit confidential information or material you lack rights to share.
 
-Third-party services, libraries, and other components remain subject to their own licenses and terms. Any accompanying third-party notices take precedence for the materials to which they apply.
+The maintainers are not obliged to implement feedback or provide compensation.
 
-Use of a third-party trademark or product name to identify supported content does not imply affiliation, endorsement, or sponsorship.
+5. Disclaimer
+Repository documentation is provided for informational purposes, subject to mandatory legal rights. Nothing here excludes statutory consumer protections or mandatory liability.
 
-## 4. Community issues, discussions, and feedback
-
-You may report bugs through GitHub Issues and share ideas or feature requests through GitHub Discussions, subject to GitHub's terms and community rules.
-
-You retain ownership of your original contributions. By submitting feedback, you permit the Trackl maintainers to review it and use the underlying ideas to develop or improve Trackl, to the extent the law allows. Please do not submit confidential information or material you lack permission to share.
-
-A public suggestion does not create an obligation to implement a feature, attribute authorship in the product, or provide compensation.
-
-## 5. No warranties for repository information
-
-Documentation and other informational content in this repository are made available on an "as is" basis, to the extent permitted by applicable law. Nothing here excludes mandatory consumer protections or statutory rights that cannot lawfully be waived.
-
-## 6. Contact
-
-For permissions or intellectual-property questions, contact **mail@yesyesgames.de**.
-
----
-
-**Before replacing an existing license:** Review the previous `LICENSE.md` and the repository's history. If an earlier license granted rights to previously published materials, replacing this notice does not automatically revoke those rights retroactively.
+6. Contact
+YesYesApps / YesYesStudios
+Email: mail@yesyesgames.de
+Legal Notice / Impressum
