@@ -1,235 +1,95 @@
-# Terms of Use – Trackl
+Terms of Use — Trackl
+Effective date: October 23, 2026
 
-**Effective date:** October 23, 2026
+1. Provider and scope
+These terms govern use of Trackl, a mobile app for identifying, searching and managing trading cards, published as YesYesApps, a brand of YesYesStudios.
 
-## 1. Introduction
-
-Welcome to Trackl, a mobile application for scanning, searching, organizing, and managing trading card collections.
-
-Trackl is published under **YesYesApps**, part of **YesYesStudios**.
-
-These Terms of Use ("Terms") govern your access to and use of Trackl, including free features, premium features, subscriptions, and in-app purchases where available.
-
-By using Trackl, you agree to these Terms, subject to applicable consumer protection laws.
-
-**Service Provider**
-
-[LEGAL NAME / BUSINESS ENTITY]  
-Trading as YesYesApps / YesYesStudios  
-[BUSINESS ADDRESS]  
+Service provider: YesYesApps / YesYesStudios. Full legal identity and postal contact information are available in the Legal Notice / Impressum.
 Email: mail@yesyesgames.de
 
-## 2. License to Use
+The features actually available depend on your app version, country and platform. References below to premium products describe terms if and when those products are offered; they are not promises that particular products already exist.
 
-Trackl is proprietary software.
+2. Right to use the app
+Trackl is proprietary software. Subject to the applicable app-store agreements and mandatory law, you receive a limited, non-exclusive right to use the app for its intended purposes. You may not unlawfully redistribute or commercially exploit Trackl or its proprietary assets. Rights granted by mandatory law remain unaffected.
 
-You are granted a limited, non-exclusive, non-transferable license to use the application for personal purposes, subject to these Terms and applicable app store agreements.
+3. Features and external data
+Trackl may include card-code scanning, search, collection organization, variants and indicative market-price information. Card catalog and market-price data can come from third-party services; completeness, availability and accuracy may vary. Displayed estimates are not guarantees of resale value and should not be relied upon as financial advice.
 
-You may not unlawfully copy, redistribute, modify, reverse-engineer, or commercially exploit Trackl or its proprietary components.
+4. Free features and optional paid products
+Trackl may offer free functionality and, where enabled, the following product types:
 
-This restriction does not affect rights granted by applicable law, including mandatory interoperability rights.
+One-time purchases: Non-recurring unlocks of the specific features described in the product offer.
+Auto-renewing subscriptions: Access to the ongoing benefits described in the particular plan during its term.
+Consumable credits or usage units: Prepaid units used for specific operations, at the rate shown before their use.
+Available products, features, any eligibility conditions, prices, taxes, billing intervals and regional limitations are shown in the app and applicable store purchase interface before an order is confirmed. The exact product offer forms part of the agreed purchase terms.
 
-## 3. Free and Premium Features
+Nothing in these Terms entitles a user to future features that are not included in a purchased product description.
 
-Trackl may offer both free and paid functionality.
+5. Payments, purchases and restoration
+Where applicable, in-app digital purchases are processed through Google Play or Apple's In-App Purchase system under the respective platform's purchase conditions. The applicable store displays the final price and handles the payment process.
 
-Paid features may be made available through:
+Restoration or transfer of entitlements depends on the product type and available store mechanisms. Non-consumable purchases and eligible subscriptions may be restorable through the purchasing store. Consumable credits are not necessarily recoverable solely through a standard 'Restore Purchases' button, so any offered credit product must clearly explain balance persistence and recovery before purchase.
 
-- One-time purchases
-- Automatically renewing subscriptions
-- Consumable credits or usage-based purchases
+A purchase on one platform does not automatically confer an entitlement on another platform unless the offer expressly provides this.
 
-The availability of individual products and features may vary by platform, region, application version, or purchase status.
+6. One-time purchases
+A one-time purchase has no automatic renewal. It unlocks the specific product functionality described at purchase, subject to technical compatibility, legally permitted modifications and mandatory consumer rights. It does not automatically include unrelated future paid features or subscriptions.
 
-Features not yet released are not included in your purchase unless explicitly stated in the relevant offer.
+If a purchase is reversed or lawfully refunded, the related paid entitlement may be removed, subject to applicable legal rights.
 
-## 4. In-App Purchases
+7. Subscriptions
+If subscriptions are offered:
 
-Where available, purchases are processed through the applicable platform's billing system, including Google Play Billing or Apple In-App Purchase.
+The price, billing period, included benefits, trial or introductory period (if any), and renewal terms are disclosed before subscription.
+A subscription renews according to the displayed terms unless cancelled using the applicable store's subscription management tools.
+Canceling usually stops future renewals, rather than immediately ending access for an already paid billing period, subject to applicable store rules and law.
+Deleting or uninstalling the app does not automatically cancel a subscription.
+Manage subscriptions through Google Play or Apple subscription settings, as applicable.
 
-Before confirming a purchase, you will be informed of the applicable price and the features, credits, or services included.
+Any subscription must deliver the ongoing value stated in its offer. Material changes to paid benefits remain subject to applicable law and contractual remedies.
 
-Prices, currencies, taxes, and availability may vary depending on your region and platform.
+8. Consumable credits / usage units
+If consumable credits are offered, each product description will specify the number of credits, which operations use them and their cost per operation. Purchased credits are for in-app use, are not a cash balance and are not transferable or redeemable for money unless applicable law requires otherwise.
 
-Transactions are also subject to the applicable platform's purchase terms.
+Purchased credits do not expire solely due to the passage of time. A chargeable operation should only deduct the stated number of credits; failed operations that do not deliver the paid-for functionality are subject to appropriate correction or restoration, consistent with consumer rights.
 
-## 5. One-Time Purchases
+Before a credit product is sold, Trackl will disclose whether balances are stored locally or with a provider, whether they survive reinstallations and device changes, and what recovery options exist. Disputed deductions may be reported to mail@yesyesgames.de.
 
-Certain premium features may be unlocked through a single payment.
+9. Refunds, withdrawal and consumer rights
+Refund and billing requests may be handled through the store that processed the purchase or through the contact above, as appropriate. Relevant platform refund processes do not replace mandatory consumer rights.
 
-One-time purchases do not automatically renew and do not create a recurring payment obligation.
+Consumers may have statutory withdrawal rights and rights concerning conformity of digital products and digital services. Any legally valid exception or loss of withdrawal rights requires the statutory conditions to be met; these rights are not automatically waived by installing or opening the app.
 
-Unless otherwise clearly stated before purchase, the purchased entitlement provides ongoing access to the specified feature without additional recurring charges.
+Nothing in these Terms excludes or limits mandatory consumer protection, statutory warranty or refund rights.
 
-A one-time purchase does not automatically include every future premium feature, expansion, or separately offered service.
+10. Personal data, local collections and future cloud functions
+Current collection data is stored locally on the device, subject to the device's backup settings. The current version does not include a Trackl in-app account or app-managed account-linked cloud synchronization. Such functionality may be introduced separately in later releases with updated notices and terms.
 
-Eligible purchases may be restored using the applicable app store's purchase restoration functionality.
+You should use any available export/backup functionality and your device's backup facilities when appropriate. We take reasonable measures to maintain the app, but cannot guarantee that a third-party service is continuously available.
 
-Refunds, reversals, or fraudulent transactions may result in the corresponding entitlement being revoked, subject to applicable law.
+The handling of personal data is explained in the Privacy Policy.
 
-## 6. Subscriptions
+11. Community feedback and corrections
+Bug reports can be submitted through GitHub Issues; suggestions and discussion through GitHub Discussions. You should not submit confidential information or material that you are not permitted to share.
 
-Trackl may offer automatically renewing subscriptions that provide ongoing access to premium features or services.
+You retain your rights in original contributions. The project may review and use voluntarily shared ideas to improve Trackl, as permitted by law, without an obligation to implement or compensate submissions.
 
-### Subscription Terms
+12. Intellectual property and independent status
+Trackl's original code, branding, designs and other proprietary materials belong to their respective rights holder(s). Trading-card publishers and other third parties retain rights in their names, images, characters, artworks and other materials.
 
-- Subscription plans, prices, and billing periods are displayed before purchase.
-- Subscriptions renew automatically unless canceled in accordance with the applicable platform's terms.
-- The applicable platform charges the selected payment method.
-- Subscription benefits remain available for the period covered by payment, subject to applicable law and platform rules.
-- Any free trial, introductory offer, or promotional pricing will be explained before purchase.
+Trackl is an independent, unofficial collection-management application. It is not affiliated with, sponsored by or endorsed by trading card game publishers or rights holders.
 
-Subscriptions provide the features and services described in the selected plan.
+13. Changes and availability
+We may provide updates, correct errors, alter third-party integrations and introduce new features. Material changes affecting existing paid entitlements remain subject to applicable law and purchase terms. There is no obligation to purchase future premium features.
 
-### Cancellation
+14. Liability
+We are liable in accordance with applicable law. Nothing in these Terms excludes liability that cannot legally be excluded, including for intent, gross negligence, injury to life, body or health, or mandatory claims relating to digital products and services.
 
-Subscriptions can be managed or canceled through the platform used to purchase them:
+15. Applicable law
+German law applies to the extent permitted by law. Consumers retain mandatory protections of the law of their habitual residence where applicable.
 
-**Google Play:**  
-https://play.google.com/store/account/subscriptions
+16. Intended audience
+Trackl is intended for trading card collectors and is not directed at children under 13. Younger users must comply with applicable platform rules and local requirements. This statement does not override age-related privacy or consumer protections.
 
-**Apple:**  
-https://support.apple.com/en-us/118428
-
-Canceling a subscription normally prevents further renewals. Access generally continues until the end of the paid billing period unless otherwise required by law or the applicable platform rules.
-
-Uninstalling Trackl does not automatically cancel a subscription.
-
-## 7. Consumable Credits and Usage-Based Purchases
-
-Trackl may offer virtual credits, tokens, or other consumable units ("Credits") for specific in-app operations.
-
-### Purchasing Credits
-
-Credit packages, their prices, and the number of Credits included will be displayed before purchase.
-
-Credits may be consumed when using the services or operations designated within Trackl.
-
-The applicable Credit cost must be disclosed before a chargeable operation is confirmed.
-
-### Credit Usage
-
-- Credits may only be used for eligible functionality within Trackl.
-- Credits have no cash value and cannot be exchanged for money.
-- Credits are not transferable or tradable unless expressly supported.
-- Credits are deducted according to the disclosed cost of the selected operation.
-- Purchased Credits do not expire solely due to the passage of time.
-- Where a chargeable operation fails without delivering the purchased functionality, appropriate restoration or correction of the Credit balance will be provided.
-
-### Credit Balances
-
-Credit storage, recovery, and device-transfer capabilities will be explained in the application before Credits are offered for purchase.
-
-Purchased Credits are subject to applicable consumer protection laws and app store requirements.
-
-If a transaction is refunded or reversed, corresponding unused Credits may be deducted.
-
-Complaints involving incorrectly deducted Credits may be submitted to mail@yesyesgames.de.
-
-## 8. Refunds and Consumer Rights
-
-Refunds may be requested through the platform used for the original purchase or, where appropriate, through our support contact.
-
-For purchases made through Google Play or the Apple App Store, the respective platform's refund procedures apply alongside mandatory consumer rights.
-
-Consumers in the European Union may have statutory withdrawal rights, including rights relating to digital content and digital services.
-
-Any legally permitted loss of a withdrawal right requires the applicable statutory conditions to be met. Purchasing, downloading, or using Trackl does not automatically waive those rights in every circumstance.
-
-Nothing in these Terms excludes or restricts statutory withdrawal, conformity, warranty, refund, or other mandatory consumer rights.
-
-## 9. Card Data and Market Prices
-
-Trackl may display card information, collection statistics, market price estimates, and data obtained from external providers.
-
-Market prices are estimates for informational purposes. They are not guaranteed purchase prices, resale values, or professional financial advice.
-
-Card information, prices, availability, and classifications may be incomplete, outdated, or inaccurate.
-
-We may correct inaccurate information and update supported data sources.
-
-## 10. User Data and Collections
-
-Trackl provides features for organizing and managing personal trading card collections.
-
-Depending on the available application version and platform, data may be stored locally or through explicitly supported backup and synchronization services.
-
-Users should take reasonable precautions to preserve important collection records.
-
-We take reasonable measures to maintain application functionality and data integrity but cannot guarantee uninterrupted availability of external services.
-
-The handling of personal data is described in our separate Privacy Policy.
-
-## 11. User Feedback and Contributions
-
-Users may submit bug reports, feature suggestions, card corrections, or other feedback through supported channels.
-
-You remain responsible for ensuring that your submissions are lawful and that you have permission to share any included materials.
-
-You grant us permission to use voluntarily submitted feedback and corrections for maintaining and improving Trackl, without an obligation to implement suggestions or provide compensation.
-
-Personal data associated with submissions is handled according to the Privacy Policy.
-
-## 12. Intellectual Property
-
-Trackl, its original application code, design, and branding are proprietary materials.
-
-Third-party trading card names, logos, artworks, and related intellectual property belong to their respective rights holders.
-
-Trackl is an independent third-party collection management application and is not affiliated with, sponsored by, or endorsed by trading card game publishers or intellectual property owners.
-
-References to supported trading card products do not imply an official partnership.
-
-## 13. Availability and Changes
-
-We may update Trackl, correct bugs, change supported data sources, and introduce or modify features.
-
-Material changes affecting paid entitlements will be handled in accordance with applicable law and the terms of the original purchase.
-
-We will not arbitrarily remove existing paid entitlements without an appropriate legal basis or remedy.
-
-Some features may require internet connectivity or services operated by third parties.
-
-## 14. Limitation of Liability
-
-Nothing in these Terms limits liability for intent, gross negligence, injury to life, body or health, or other liability that cannot lawfully be excluded.
-
-For other damages, liability is governed by applicable law.
-
-Mandatory statutory rights concerning digital products and services remain unaffected.
-
-## 15. Privacy
-
-Personal data is processed in accordance with the Trackl Privacy Policy.
-
-**Privacy Policy:**  
-[PUBLIC PRIVACY POLICY URL]
-
-For privacy-related inquiries, contact mail@yesyesgames.de.
-
-## 16. Changes to These Terms
-
-We may update these Terms to reflect legal requirements or changes to Trackl.
-
-The effective date will be updated when a new version is published.
-
-Where legally required, users will be informed of material changes and any necessary consent will be obtained.
-
-Changes do not override mandatory consumer protections or existing contractual rights.
-
-## 17. Governing Law
-
-These Terms are governed by German law to the extent permitted by applicable law.
-
-This choice does not deprive consumers of mandatory protections available under the laws of their country of habitual residence.
-
-## 18. Contact
-
-Questions about Trackl, purchases, subscriptions, credits, or these Terms can be directed to:
-
-**YesYesApps / YesYesStudios**  
-Email: mail@yesyesgames.de
-
----
-
-Copyright © 2026 [LEGAL RIGHTS HOLDER]. All rights reserved.
+17. Contact and changes to terms
+For questions about Trackl or your purchases, contact mail@yesyesgames.de. We may update these Terms when necessary; material updates will be communicated where legally required and do not retroactively remove mandatory consumer rights.
