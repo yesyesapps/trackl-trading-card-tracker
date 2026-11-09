@@ -1,6 +1,4 @@
 # Trackl — License and Intellectual Property Notice
-Copyright © 2026 Christian Fritzsching. All rights reserved.
-
 Trackl is proprietary software published under YesYesApps, part of YesYesStudios.
 
 1. Scope
@@ -34,9 +32,3 @@ The maintainers are not obliged to implement feedback or provide compensation.
 5. Disclaimer
 
 Repository documentation is provided for informational purposes, subject to mandatory legal rights. Nothing here excludes statutory consumer protections or mandatory liability.
-
-6. Contact
-
-YesYesApps / YesYesGames / YesYesStudios  
-Email: mail@yesyesgames.de  
-Legal Notice / Impressum
